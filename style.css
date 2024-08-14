@@ -21,6 +21,13 @@ body{
 }
 
 
+a path {
+    transition: fill 0.2s ease;
+}
+
+a:hover path {
+    fill: crimson;
+}
 
 
 
